@@ -13,7 +13,7 @@ public class Perro
 		edad= 0;
 		color= "";
 	}
-
+//constructor por defecto
 	public Perro(Raza raza, float tamano, int edad, String color)
 	{
 		this.raza = raza;
